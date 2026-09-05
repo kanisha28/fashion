@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  fashion-platform:
+    build: .
+    container_name: fashion_event_platform
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    environment:
+      - ENVIRONMENT=production
+      - BACKEND_API_BASE=http://127.0.0.1:8000/api
+    restart: unless-stopped

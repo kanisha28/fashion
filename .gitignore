@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local database
+*.db
+local_event_forecasting.db
+
+# Environment variables
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit cache
+.streamlit/cache
+
+# Model artifacts
+models/saved_models/*.joblib

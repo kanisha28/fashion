@@ -1,0 +1,16 @@
+id,store_code,store_name,city,latitude,longitude,store_type,size_sqft,active,created_at
+1,ST-CHN-04,Chennai Anna Nagar Flagship,Chennai,13.085,80.21,Flagship,8500,True,2026-09-05 07:12:52.747922
+2,ST-CHN-01,Chennai Express Avenue Mall,Chennai,13.06,80.26,Mall,6200,True,2026-09-05 07:12:52.747922
+3,ST-CHN-02,Chennai T Nagar High Street,Chennai,13.04,80.233,High Street,7100,True,2026-09-05 07:12:52.747922
+4,ST-MUM-05,Mumbai Bandra Linking Road,Mumbai,19.06,72.835,High Street,5500,True,2026-09-05 07:12:52.747922
+5,ST-MUM-06,Mumbai Phoenix Palladium,Mumbai,18.995,72.825,Mall,9000,True,2026-09-05 07:12:52.747922
+6,ST-BLR-07,Bengaluru Indiranagar 100ft Rd,Bengaluru,12.978,77.64,High Street,6400,True,2026-09-05 07:12:52.747922
+7,ST-BLR-08,Bengaluru Koramangala Nexus,Bengaluru,12.935,77.615,Mall,7800,True,2026-09-05 07:12:52.747922
+8,ST-DEL-09,Delhi Connaught Place Flagship,Delhi,28.632,77.219,Flagship,9500,True,2026-09-05 07:12:52.747922
+9,ST-DEL-10,Delhi Select Citywalk Saket,Delhi,28.528,77.219,Mall,8200,True,2026-09-05 07:12:52.747922
+10,ST-HYD-11,Hyderabad Jubilee Hills High St,Hyderabad,17.432,78.407,High Street,5800,True,2026-09-05 07:12:52.747922
+11,ST-HYD-12,Hyderabad Inorbit Mall Madhapur,Hyderabad,17.435,78.385,Mall,7200,True,2026-09-05 07:12:52.747922
+12,ST-PUN-13,Pune Phoenix Marketcity Viman,Pune,18.562,73.916,Mall,6800,True,2026-09-05 07:12:52.747922
+13,ST-PUN-14,Pune FC Road High Street,Pune,18.525,73.843,High Street,4900,True,2026-09-05 07:12:52.747922
+14,ST-KOL-15,Kolkata South City Mall,Kolkata,22.502,88.361,Mall,7500,True,2026-09-05 07:12:52.747922
+15,ST-KOL-16,Kolkata Park Street Heritage,Kolkata,22.551,88.353,High Street,5200,True,2026-09-05 07:12:52.747922
